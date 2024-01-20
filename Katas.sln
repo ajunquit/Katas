@@ -13,6 +13,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.Strings.Tests", "Kata.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Kata.Strings.VowelCount", "Kata.Strings.VowelCount\Kata.Strings.VowelCount.csproj", "{46C79F96-F91C-44B6-A168-31139D1170EC}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Grouped by commas", "02. Grouped by commas", "{9DCA061B-FA3C-49D1-92C9-1766FF7634AD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kata.Strings.GroupedByCommas", "Kata.Strings.GroupedByCommas\Kata.Strings.GroupedByCommas.csproj", "{605563E4-22E7-4768-AA0A-CC6BDA90E1AE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,10 @@ Global
 		{46C79F96-F91C-44B6-A168-31139D1170EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{46C79F96-F91C-44B6-A168-31139D1170EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{46C79F96-F91C-44B6-A168-31139D1170EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{605563E4-22E7-4768-AA0A-CC6BDA90E1AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{605563E4-22E7-4768-AA0A-CC6BDA90E1AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{605563E4-22E7-4768-AA0A-CC6BDA90E1AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{605563E4-22E7-4768-AA0A-CC6BDA90E1AE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,6 +44,8 @@ Global
 		{5FD52B03-482E-4803-B0A4-615E3CCB72BC} = {69AB3687-6EF1-4D11-ADDE-68ED7776D292}
 		{DEA86760-2B7C-4FF3-B078-E9FCA185BF0D} = {5FD52B03-482E-4803-B0A4-615E3CCB72BC}
 		{46C79F96-F91C-44B6-A168-31139D1170EC} = {8CDCA674-C64C-4D69-A44A-1AF48C1A0E13}
+		{9DCA061B-FA3C-49D1-92C9-1766FF7634AD} = {69AB3687-6EF1-4D11-ADDE-68ED7776D292}
+		{605563E4-22E7-4768-AA0A-CC6BDA90E1AE} = {9DCA061B-FA3C-49D1-92C9-1766FF7634AD}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {347A7E6A-6C4A-4D54-94BA-EF3DFAAEC171}
