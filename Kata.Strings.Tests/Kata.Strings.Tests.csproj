@@ -18,7 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Kata.VowelCount\Kata.VowelCount.csproj" />
+    <ProjectReference Include="..\Kata.Strings.VowelCount\Kata.Strings.VowelCount.csproj" />
   </ItemGroup>
 
 </Project>

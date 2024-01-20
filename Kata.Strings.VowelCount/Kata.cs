@@ -1,4 +1,4 @@
-﻿namespace Kata.VowelCount;
+﻿namespace Kata.Strings.VowelCount;
 
 public static class Kata
 {
