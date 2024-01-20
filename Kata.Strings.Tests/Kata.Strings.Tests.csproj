@@ -18,6 +18,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\Kata.Strings.GroupedByCommas\Kata.Strings.GroupedByCommas.csproj" />
     <ProjectReference Include="..\Kata.Strings.VowelCount\Kata.Strings.VowelCount.csproj" />
   </ItemGroup>
 
