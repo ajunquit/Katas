@@ -1,6 +1,4 @@
-﻿using System.Linq;
-
-namespace Kata.VowelCount;
+﻿namespace Kata.VowelCount;
 
 public static class Kata
 {
